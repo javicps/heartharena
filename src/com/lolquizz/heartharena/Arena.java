@@ -2,6 +2,9 @@ package com.lolquizz.heartharena;
 
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;
+import com.lolquizz.heartharena.screen.AbstractScreen;
+import com.lolquizz.heartharena.screen.ArenaSimulatorScreen;
+import com.lolquizz.heartharena.screen.HeroSelectScreen;
 
 public class Arena extends Game {
 	

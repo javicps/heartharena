@@ -1,8 +1,9 @@
-package com.lolquizz.heartharena;
+package com.lolquizz.heartharena.screen;
 
 
 
 import com.badlogic.gdx.Screen;
+import com.lolquizz.heartharena.Arena;
 
 public abstract class AbstractScreen implements Screen {
 	
