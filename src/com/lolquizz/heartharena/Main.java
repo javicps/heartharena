@@ -19,6 +19,7 @@
 //	}
 //}
 package com.lolquizz.heartharena;
+
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
